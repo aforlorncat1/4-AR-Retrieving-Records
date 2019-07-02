@@ -1,4 +1,4 @@
-#Active Record Intro:  Retrieving Records
+# Active Record Intro:  Retrieving Records
 
 ## Summary
 In this exercise, we will begin to explore Active Record models, the classes backed up by our database.  We'll learn about some of the different methods available for getting records out of our database.  We'll explore both the methods that we'll rely on day in and day out as well as some helpful options that we'll use less regularly.  For a more comprehensive list of options, we can always reference the [RailsGuides document on the Active Record Query Interface][RailsGuides Query Interface].
